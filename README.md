@@ -15,3 +15,4 @@ In this repo I put it links for front end development free resoucse
 ### 4.MDN web Docs [[Link]](https://developer.mozilla.org/en-US/)
 - HTML,CSS,Js,React,Angular and many more are well documented
 
+### 5. SmahingMagzine[[link]]
